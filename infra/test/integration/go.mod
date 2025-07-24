@@ -7,7 +7,7 @@ require (
 	cloud.google.com/go/pubsub v1.30.1
 	github.com/GoogleCloudPlatform/cloud-foundation-toolkit/infra/blueprint-test v0.4.1
 	github.com/parnurzeal/gorequest v0.2.16
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.10.0
 	google.golang.org/api v0.118.0
 	k8s.io/api v0.26.0
 	k8s.io/apimachinery v0.26.0
